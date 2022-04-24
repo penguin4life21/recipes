@@ -1,0 +1,31 @@
+{
+    "img":"./rec1.jpeg",
+    "recipeInfo": {
+        "recipeName": "Simple Pancakes",
+        "recipeDesc": "A basic recipe for pancakes",
+        "recipeTime": "15 Minutes",
+        "recipeServings": "4"
+    },
+    "ingredients": [
+        {
+            "ingredientName": "Self Raising Flour",
+            "ingredientAmount": "1 cup"
+        },
+        {
+            "ingredientName": "Egg",
+            "ingredientAmount": "1"
+        },
+        {
+            "ingredientName": "Milk",
+            "ingredientAmount": "1 cup"
+        }
+    ],
+    "recipeSteps": {
+        "1": "Mix all ingredients together",
+        "2": "Grease griddle with non stick cooking spray",
+        "3": "Use a measuring spoon to measure out batter and place on griddle",
+        "4": "Flip the pancakes once bubbles start appearing on the surface",
+        "5": "Finish cooking the pancakes on the second side of the griddle",
+        "6": "Repeat with remaining batter"
+    }
+}
